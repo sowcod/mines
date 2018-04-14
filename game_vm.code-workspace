@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "mapsync"
+		},
+		{
+			"path": "compose"
 		}
 	],
 	"settings": {}
