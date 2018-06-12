@@ -3,9 +3,6 @@ services:
     game:
         build: '../game'
         image: 'mcgame'
-        expose:
-            - 8080
-            - 25565
         ports: 
             - '8080:8080'
             - '25565:25565'
